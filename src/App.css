@@ -1,0 +1,20 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.App {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.diamond {
+  width: 20px;
+  height: 20px;
+  margin: 20px;
+  padding: 20px;
+  -ms-transform: rotate(45deg); /* IE 9 */
+  transform: rotate(45deg);
+}
